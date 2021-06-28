@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Adam 👋
+
+I'm an eager builder with a lot of projects and certifications on the go. Come check out what I'm up to!
 
 ### 🏆 Certifications
 
