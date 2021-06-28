@@ -2,7 +2,9 @@
 
 #### 🔭 I’m currently working on
 
-Snyk.io
+[Sales Engineering @ Snyk](https://www.snyk.io)
+
+Focusing on helping customer get Snyk up and running on their environments!
 
 #### 🌱 I’m currently learning
 
