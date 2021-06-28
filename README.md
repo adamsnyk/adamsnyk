@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+#### 🔭 I’m currently working on
+
+Snyk.io
+
+#### 🌱 I’m currently learning
+
+Snyk Code Wizard Level 3
+
 <!--
 **adamsnyk/adamsnyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
