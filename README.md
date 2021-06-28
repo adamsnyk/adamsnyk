@@ -8,9 +8,7 @@ Creating vulnerable projects, educating customers with demos, and helping them p
 
 ### 🌱 Certifications
 
-<p align="center">
-  <img width="500" src="https://github.com/adamsnyk/adamsnyk/blob/main/sca-knight-banner.png">
-</p>
+<img width="500" src="https://github.com/adamsnyk/adamsnyk/blob/main/sca-knight-banner.png">
 
 <!--
 **adamsnyk/adamsnyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
