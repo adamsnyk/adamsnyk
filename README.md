@@ -13,7 +13,11 @@ Creating vulnerable projects, educating customers with demos, and helping them p
 Inline-style: 
 ![snyk SCA knight](https://github.com/adamsnyk/adamsnyk/blob/main/sca-knight-banner.png "Snyk SCA Knight Level 6")
 
-Snyk SCA Knight Level 6
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
+
+#### Snyk SCA Knight Level 6
 
 <!--
 **adamsnyk/adamsnyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
