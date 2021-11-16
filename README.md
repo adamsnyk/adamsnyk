@@ -2,10 +2,6 @@
 
 I'm an eager builder with a lot of projects and certifications on the go. Come check out what I'm up to!
 
-### 🏆 Certifications
-
-<img width="500" src="https://github.com/adamsnyk/adamsnyk/blob/main/sca-knight-banner.png">
-
 ### 🔭 I’m currently working on
 
 I do [sales engineering @ Snyk](https://www.snyk.io) where I focus on helping customer get Snyk up and running on their environments!
